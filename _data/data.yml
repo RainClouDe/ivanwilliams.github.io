@@ -149,43 +149,89 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
+  - name: Associate cloud Engineer
+    start: 2024
+    end: 2024
+    organization: Google
+    credentialid: 151339
     credentialurl: www.google.com
     credentialname: Google
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      The Google Cloud Associate Cloud Engineer (ACE) certification 
+      is designed to validate your ability to deploy applications, 
+      monitor operations, and manage enterprise solutions on Google 
+      Cloud. It’s the entry-level certification for Google Cloud and 
+      serves as a foundational credential for professionals working 
+      with Google Cloud Platform (GCP).
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+  - name: Google Cloud Training
+    start: 2024
+    end: 2024
+    organization: Coursera
+    credentialname: Architecting with Google Kubernetes
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      The "Architecting with Google Kubernetes Engine: 
+      Workloads" course is the second installment in the 
+      Architecting with Google Kubernetes Engine specialization 
+      offered by Google Cloud on Coursera. This intermediate-level 
+      course delves into deploying and managing containerized 
+      applications using Google Kubernetes Engine (GKE), 
+      focusing on workloads, networking, and storage.
+
+  - name: Google Cloud Training
+    start: 2024
+    end: 2024
+    organization: Coursera
+    credentialname: Architecting with Google Kubernetes Engine
+    details: |
+      The Architecting with Google Kubernetes Engine specialization will
+      teach you how to implement solutions using Google Kubernetes
+      Engine, or GKE, including building, scheduling, load balancing, and
+      monitoring workloads, as well as providing for discovery of services,
+      managing role-based access control and security, and providing
+      persistent storage to these applications.
+
+  - name: Google Cloud Training
+    start: 2024
+    end: 2024
+    organization: Coursera
+    credentialname: Google Cloud Fundamentals Core Infrastructure
+    details: |
+      The "Google Cloud Fundamentals: Core Infrastructure" 
+      course on Coursera offers a comprehensive introduction to 
+      Google Cloud Platform (GCP), covering essential concepts, 
+      services, and tools. It's designed for individuals new to 
+      cloud computing or GCP, providing foundational knowledge 
+      through a blend of lectures and hands-on labs.
+
+  - name: Google Cloud Training
+    start: 2024
+    end: 2024
+    organization: Coursera
+    credentialname: Architecting with Google Kubernetes Engine Foundations
+    details: |
+      The "Architecting with Google Kubernetes Engine: Foundations" 
+      course is the first installment in the Architecting with Google 
+      Kubernetes Engine specialization offered by Google Cloud on 
+      Coursera. This intermediate-level course introduces you to 
+      the fundamentals of Google Cloud Platform (GCP), 
+      containerization, and Kubernetes architecture, laying the 
+      groundwork for deploying and managing containerized 
+      applications using Google Kubernetes Engine (GKE).
+
+  - name: Google Cloud Training
+    start: 2024
+    end: 2024
+    organization: Coursera
+    credentialname: Getting Started with Google Kubernetes Engine
+    details: |
+      The "Getting Started with Google Kubernetes Engine" 
+      course on Coursera offers an introductory exploration into 
+      deploying and managing containerized applications using 
+      Google Kubernetes Engine (GKE). Designed for individuals 
+      new to Kubernetes and GKE, this course provides 
+      foundational knowledge through a combination of lectures 
+      and hands-on labs.
 
 projects:
   title: Projects
@@ -291,5 +337,3 @@ skills:
   - name: Sketch & Photoshop
     level: 60%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
