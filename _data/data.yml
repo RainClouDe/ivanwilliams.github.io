@@ -62,14 +62,21 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: About me
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    GCP Solutions Architect & BSc Honours Information Technology. 
+    Beginning with bare-bones PHP and Linux servers, I gradually 
+    transitioned into full-stack engineering. This progression has 
+    given me a broader perspective when designing and implementing 
+    solutions in the cloud.
+
+    I have a strong work ethic and a keen ambition to learn anything 
+    related to software. I believe my deep sense of empathy has helped 
+    me approach challenges thoughtfully while upholding strong moral 
+    values, regardless of external circumstances. Throughout my career, 
+    I’ve had the pleasure of working with diverse teams, which has 
+    enhanced my interpersonal skills and equipped me to effectively 
+    navigate and resolve team-based challenges.
 education:
   title: Education
   info:
