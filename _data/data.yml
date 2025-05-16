@@ -4,12 +4,12 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Ivan Williams
-  tagline: Full Stack Developer
+  tagline: Cloud DevOps Engineer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -17,7 +17,7 @@ sidebar:
   phone: (+27) 64 952 9066
   timezone: Pretoria/Harare # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: South African
-  linkedin: linkedin.com/in/ivan-williams-206739150
+  linkedin: www.linkedin.com/in/ivan-williams-206739150
 
   languages:
     title: Languages
@@ -25,24 +25,18 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
-
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Cycling
       link:
 
 
-    - item: Snowboarding
+    - item: Gaming
       link:
 
 
-    - item: Cooking
+    - item: Drawing
       link:
 
 
@@ -65,9 +59,9 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BSc in Computer Science
+    university: University of Johannesburg
+    time: 2014 - 2017
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
