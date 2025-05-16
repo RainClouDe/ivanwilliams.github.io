@@ -285,16 +285,18 @@ publications:
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
+  - person: Charles Faul
     email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
     recommendation: |
       Alan Doe is a super employee!
-  - person: Lara Henderson
+  - person: Louis-Phillip Shahim
     email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+    recommendation: |
+      I would like to work with Alan Doe again!
+
+      He is a great employee!
+  - person: Belinda De Oliveira
+    email: larah@example.com
     recommendation: |
       I would like to work with Alan Doe again!
 
