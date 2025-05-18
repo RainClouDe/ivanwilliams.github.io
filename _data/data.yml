@@ -74,41 +74,62 @@ experiences:
     time: 2025 - Present
     company: Synthesis
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      At Synthesis, I worked closely with our client, Lombard, 
+      where I led the migration of teams from locally developed 
+      proof-of-concepts to production-ready cloud deployments 
+      in under a week using Google Cloud Platform and Terraform. 
+      I enhanced CI/CD pipelines with InfraCost for cost analysis
+      and SonarCloud for code quality checks. Leveraging Google 
+      Cloud Fabric, I helped build and manage scalable cloud 
+      infrastructure.
+
+      As part of a broader architecture, I deployed Cloud Run 
+      services behind load balancers, connecting them to PostgreSQL 
+      databases hosted within a VPC for secure, private access. 
+      I implemented Identity-Aware Proxy (IAP) to restrict 
+      application access to specific organization members, 
+      enhancing security. For another Synthesis client, 
+      I developed a scheduled pipeline that executes on a 
+      VM once a month, using custom Bash startup scripts to 
+      orchestrate the process reliably.
+        - Terraform
+        - Docker
+        - Google Cloud Platform
+        - Google Cloud Fabric
   
   - role: Senior Software Engineer
     time: 2021 - 2025
     company: Loop Platform
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Leveraging my knowledge of neural networks, I developed and 
+      refined a routing algorithm based on the Travelling Salesman 
+      Problem, which was later used as a proof of concept for Aramex. 
+      I led and managed my team through production deployments on the 
+      Loop Platform, strategically planning feature rollouts to 
+      ensure zero disruption to clients. I utilized Pub/Sub and 
+      Cloud Functions to efficiently stream hundreds to thousands 
+      of requests into BigQuery, enabling real-time analytics for 
+      Loop’s clients. This system was later expanded to support 
+      additional data pipelines, a project I led in collaboration 
+      with other developers. Additionally, I built a Cloud Function 
+      that listened for location updates from a Flutter app and 
+      triggered "Order is nearby" notifications to clients. 
+      I also performed a live database migration from the 
+      development environment to production using the Database 
+      Migration Tool, maintaining uninterrupted service while 
+      development continued to handle live traffic.
+        - Google Cloud Platform
+        - Nodejs
+        - Python
   
   - role: Mid-level Developer
     time: 2020 - 2021
     company: Doshex
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Primarily worked with a client, Rent Right, on a legacy CakePHP application, focusing on feature development and enhancements to their existing system. Additionally, contributed to a proof of concept for Doshex during a short engagement.
+        - Cakephp
+        - React
+        - Nodejs
 
   - role: Developer
     time: 2019 - 2020
