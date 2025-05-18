@@ -307,21 +307,50 @@ recommendations:
       He is a great employee!
 
 skills:
-  title: DevOps
+  title: DevOps - Google Cloud Platform
 
   toolset:
-  - name: Python
+  - name: Cloud Run
     level: 98%
 
-  - name: Nodejs
+  - name: Cloud Build
     level: 98%
 
-  - name: Terraform
-    level: 80%
-
-  - name: Google Cloud Platform
+  - name: Big Query
     level: 90%
 
+  - name: Pub/Sub
+    level: 90%
+
+  - name: Fire Store
+    level: 90%
+
+  - name: SQL
+    level: 80%
+
+  - name: Data Migration
+    level: 70%
+
+  - name: Cloud Storage
+    level: 60%
+
+  - name: Artifact Registry
+    level: 60%
+
+  - name: Vertex AI
+    level: 10%
+
+skills:
+  title: DevOps - Microsoft Azure
+
+  toolset:
+  - name: Azure Virtual Machines
+    level: 60%
+
+  - name: Azure Kubernetes
+    level: 50%
+
+skills:
   title: Engineering Stacks
 
   toolset:
@@ -331,24 +360,41 @@ skills:
   - name: Nodejs
     level: 98%
 
+  - name: React
+    level: 90%
+
   - name: Terraform
     level: 80%
 
-  - name: Google Cloud Platform
-    level: 90%
+  - name: PHP
+    level: 60%
 
+  - name: Erlang
+    level: 40%
+
+skills:
+  title: Source Control
+
+  toolset:
+  - name: GitHub
+    level: 98%
+
+  - name: Bit Bucket
+    level: 80%
+
+skills:
   title: Project Management
 
   toolset:
-  - name: Python
+  - name: Jira
     level: 98%
 
-  - name: Nodejs
+  - name: Confluence
     level: 98%
 
-  - name: Terraform
+  - name: Clockify
     level: 80%
 
-  - name: Google Cloud Platform
-    level: 90%
+  - name: Miro
+    level: 80%
 
