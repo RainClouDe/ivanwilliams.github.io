@@ -294,13 +294,13 @@ recommendations:
     recommendation: |
       Alan Doe is a super employee!
   - person: Louis-Phillip Shahim
-    email: larah@example.com
+    email: Louis-Phillip@example.com
     recommendation: |
       I would like to work with Alan Doe again!
 
       He is a great employee!
   - person: Belinda De Oliveira
-    email: larah@example.com
+    email: Belinda@example.com
     recommendation: |
       I would like to work with Alan Doe again!
 
@@ -340,61 +340,5 @@ skills:
   - name: Vertex AI
     level: 10%
 
-skills:
-  title: DevOps - Microsoft Azure
 
-  toolset:
-  - name: Azure Virtual Machines
-    level: 60%
-
-  - name: Azure Kubernetes
-    level: 50%
-
-skills:
-  title: Engineering Stacks
-
-  toolset:
-  - name: Python
-    level: 98%
-
-  - name: Nodejs
-    level: 98%
-
-  - name: React
-    level: 90%
-
-  - name: Terraform
-    level: 80%
-
-  - name: PHP
-    level: 60%
-
-  - name: Erlang
-    level: 40%
-
-skills:
-  title: Source Control
-
-  toolset:
-  - name: GitHub
-    level: 98%
-
-  - name: Bit Bucket
-    level: 80%
-
-skills:
-  title: Project Management
-
-  toolset:
-  - name: Jira
-    level: 98%
-
-  - name: Confluence
-    level: 98%
-
-  - name: Clockify
-    level: 80%
-
-  - name: Miro
-    level: 80%
 
