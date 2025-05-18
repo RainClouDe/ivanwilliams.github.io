@@ -307,7 +307,37 @@ recommendations:
       He is a great employee!
 
 skills:
-  title: Skills &amp; Proficiency
+  title: DevOps
+
+  toolset:
+  - name: Python
+    level: 98%
+
+  - name: Nodejs
+    level: 98%
+
+  - name: Terraform
+    level: 80%
+
+  - name: Google Cloud Platform
+    level: 90%
+
+  title: Engineering Stacks
+
+  toolset:
+  - name: Python
+    level: 98%
+
+  - name: Nodejs
+    level: 98%
+
+  - name: Terraform
+    level: 80%
+
+  - name: Google Cloud Platform
+    level: 90%
+
+  title: Project Management
 
   toolset:
   - name: Python
