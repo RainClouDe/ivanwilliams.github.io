@@ -104,20 +104,22 @@ experiences:
       Leveraging my knowledge of neural networks, I developed and 
       refined a routing algorithm based on the Travelling Salesman 
       Problem, which was later used as a proof of concept for Aramex. 
-      I led and managed my team through production deployments on the 
-      Loop Platform, strategically planning feature rollouts to 
-      ensure zero disruption to clients. I utilized Pub/Sub and 
-      Cloud Functions to efficiently stream hundreds to thousands 
-      of requests into BigQuery, enabling real-time analytics for 
-      Loop’s clients. This system was later expanded to support 
-      additional data pipelines, a project I led in collaboration 
-      with other developers. Additionally, I built a Cloud Function 
-      that listened for location updates from a Flutter app and 
-      triggered "Order is nearby" notifications to clients. 
-      I also performed a live database migration from the 
-      development environment to production using the Database 
-      Migration Tool, maintaining uninterrupted service while 
-      development continued to handle live traffic.
+      I also utilized Pub/Sub and Cloud Functions to stream hundreds 
+      to thousands of requests into BigQuery, enabling real-time 
+      analytics for Loop’s clients. This data streaming system was 
+      later expanded to support additional pipelines—a project I 
+      led in collaboration with other developers. Additionally, 
+      I built a Cloud Function that listened for location updates 
+      from a Flutter app and triggered “Order is nearby” 
+      notifications to clients.
+
+      In parallel, I led and managed my team through production 
+      deployments on the Loop Platform, carefully planning feature 
+      rollouts to ensure zero disruption to clients. 
+      I also performed a live database migration from the development 
+      environment to production using the Database Migration 
+      Tool, maintaining uninterrupted service while allowing 
+      development to continue handling live traffic.
         - Google Cloud Platform
         - Nodejs
         - Python
