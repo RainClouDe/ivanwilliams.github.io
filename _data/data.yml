@@ -135,37 +135,41 @@ experiences:
     time: 2019 - 2020
     company: Soko Source
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      I contributed to feature development for their existing 
+      platform, Soko Source. When I joined, the team had a Django 
+      application that required deployment to the cloud. Although 
+      I had no prior experience with Kubernetes or Microsoft Azure, 
+      I proactively taught myself both technologies and successfully 
+      deployed the application to Azure Kubernetes Service (AKS). 
+      Additionally, I gained valuable hands-on experience by 
+      extensively working with Azure Virtual Machines.
+        - Django
+        - Microsoft Azure Kubernetes
+        - Microsoft Azure Virtual Machines
 
   - role: Junior Developer
     time: 2018 - 2019
     company: Pharos-Avantgard
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      At the time, this company managed the backend for MTN's 
+      USSD SMS menu system. During my tenure, I used Erlang for 
+      full-stack web development to build several frontend 
+      components. I also worked on enhancing MTN’s 
+      USSD menus and made updates to their existing mobile app, XLink.
+        - Erlang
   
   - role: Junior Web Developer
     time: 2017 - 2018
     company: Devmoco
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point        
+      Built and maintained a content creation platform, focusing on 
+      backend development to optimize data retrieval and seamlessly 
+      deliver content from the database to the frontend. 
+      Contributed to full-stack feature enhancements to improve 
+      overall functionality.
+        - PHP
+        - Boostrap
+        - MySql      
 
 certifications:
   title: Certifications
