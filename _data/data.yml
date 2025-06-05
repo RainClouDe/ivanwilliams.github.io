@@ -281,6 +281,10 @@ projects:
     link: "https://www.pharos-corp.com/"
     tagline: "Using the functional programming language Erlang, I worked on web development projects and had the opportunity to contribute to the USSD menus used by MTN. Additionally, I was involved in feature development for their mobile application, XLink"
 
+  - title: Solar API POC
+    link: "https://solar-potential-268845859533.africa-south1.run.app/"
+    tagline: "POC for Google new Solar API."
+
 publications:
   papers:
   - title: A Study on Behavioural Agents for StarCraft 2
@@ -296,18 +300,18 @@ recommendations:
     email: charles@akiliai.net
     recommendation: |
       Great to work with!
-  - person: Louis-Phillip Shahim
-    email: Louis-Phillip@example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+  # - person: Louis-Phillip Shahim
+  #   email: Louis-Phillip@example.com
+  #   recommendation: |
+  #     I would like to work with Alan Doe again!
 
-      He is a great employee!
-  - person: Belinda De Oliveira
-    email: Belinda@example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+  #     He is a great employee!
+  # - person: Belinda De Oliveira
+  #   email: Belinda@example.com
+  #   recommendation: |
+  #     I would like to work with Alan Doe again!
 
-      He is a great employee!
+  #     He is a great employee!
 
 skills:
   title: DevOps - Google Cloud Platform
